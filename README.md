@@ -10,6 +10,8 @@ learn something. You owe it to ALL creators, contributors before you.
 
 Fun and frustrating at times =)
 
+**[** Dont forget to unzip "unzip_me.zip" in EFI/OC/Resources**]**
+
 
 ## Specs:
 - HP Z2 Small Form Factor G4
