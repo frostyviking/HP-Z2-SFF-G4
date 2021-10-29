@@ -22,6 +22,12 @@ Fun and frustrating at times =)
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0 (en1)
 - Audio: Conexant CX20632 5.1 HD Audio
 
+## Current OS
+- macOS Monterey 12.0.1 (Build 21A559)
+
+## Bootloader
+- OpenCore 0.7.5
+
 ## BIOS Settings
 - Advanced -> Boot Options
   - Startup Delay 5
@@ -75,10 +81,3 @@ Fun and frustrating at times =)
 
 - Advanced -> Remote Management Options
   - I have not touched anything in here, running defaults AFAIK..
-
-
-## Current OS
-- macOS Monterey 12.0.1 (Build 21A559)
-
-## Bootloader
-- OpenCore 0.7.5
