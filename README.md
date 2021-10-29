@@ -14,6 +14,9 @@ Both fun and frustrating at times, just like kids. =)
 
 **[Dont forget to unzip "unzip_me.zip" in EFI/OC/Resources]** or you wont have a nice gui at boot.
 
+USB Ports mapped and named in USBPorts.kext, check the .plist or just run Hackintool when in OS.
+There are 2 ports removed to keep below the magic limit, located at the back (2 black USB2.0)
+I wont bother doing a writeup for that here.
 
 ## Specs:
 - HP Z2 Small Form Factor G4
