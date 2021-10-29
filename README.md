@@ -13,7 +13,7 @@ Fun and frustrating at times =)
 
 ## Specs:
 - HP Z2 Small Form Factor G4
-- BIOS: 
+- BIOS: Q50 Ver. 01.07.00 04/28/2021
 - CPU: Intel® Core i9-9900K @ 3.60 GHz processor
 - GPU: Intel® UHD Graphics 630 (2 DisplayPorts)
 - Memory: 4 x 8GB Samsung DDR4-2667
@@ -29,6 +29,9 @@ Fun and frustrating at times =)
 - OpenCore 0.7.5
 
 ## BIOS Settings
+- Advanced -> HP Sure Recover
+  - All is **Off**
+
 - Advanced -> Boot Options
   - Startup Delay 5
   - Disable **Fast Boot**
@@ -39,7 +42,7 @@ Fun and frustrating at times =)
   - UEFI & Legacy Boot order, is up to you.
   
 - Advanced -> Secure Boot Configuration
-  - Select **Legacy Support Enable and Secure Boot Disable**
+  - Select **Legacy Support Disable and Secure Boot Disable**
   - Everything else unchecked.
 
 - Advanced -> System Options
@@ -48,23 +51,24 @@ Fun and frustrating at times =)
   - Enable **Multi-processor**
   - Enable **Virtualization Technology (VTx)**
   - Disable **Virtualization Technology for Directed I/O (VTd)**
-  - Enable **M.2 WLAN/BT**
-  - Enable **M.2 SSD**
   - Enable **Allow PCIe/PCI SERR# Interrupt**
-  - Power Button Override **4 sec**
+  - Everything else unchecked.
 
 - Advanced -> Built-in Device Options
   - Enable **Embedded LAN Controller**
   - Disable **Wake on LAN**
   - Disable **Dust Filter**
-  - Video memory size **64MB**
-  - Enable **M.2 USB / Bluetooth**
+  - Video memory size **512MB**
   - Enable **Audio Device**
+  - Enable **Microphone**
   - Enable **Internal Speakers**
-  - Increase Idle Fan Speed (%), set at 0
+  - Idle Fan Speed set @ **10%**
+  - Enable **M.2 USB / Bluetooth**
+  - Everything else unchecked.
 
 - Advanced -> Port Options
-  - Everything **Enabled**
+  - Disable **eSATA Port**
+  - Everything else **Enabled**
   - Restrict USB Devices **Allow all USB Devices**
 
 - Advanced > Option ROM Launch Policy
@@ -73,11 +77,14 @@ Fun and frustrating at times =)
 - Advanced -> Power Management Options
   - Runtime Power Management **Enable**
   - Extended Idle Power States **Enable**
-  - S5 Maximum Power Savings **Disable**
+  - S4/S5 Maximum Power Savings **Disable**
   - SATA Power Management **Enable**
-  - PCI Express Power Managment **Disable**
-  - Power On from Keyboard Ports **Disable**
+  - Allow waking from S4/S5 via keyboard/mouse **Disable**
   - Unique Sleep State Blink Rates **Disable** 
 
 - Advanced -> Remote Management Options
-  - I have not touched anything in here, running defaults AFAIK..
+  - Intel Management Engine is **enabled**
+  - Everything else unchecked or greyed out.
+
+- Advanced -> Slot Settings
+  - All slots **enabled** and **auto**
