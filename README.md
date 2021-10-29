@@ -1,14 +1,16 @@
 ![HP Z2 Small Form Factor](https://support.hp.com/doc-images/411/c06100891.jpg)
 
-# This is not a guide, this is just a tribute.
-I run this machine on a daily basis, its solid as a rock.
-Thinking about putting a Radeon WX4100 in it for some gpu performance.
+# HP Z2 SFF G4
+I use this machine on a daily basis, its solid as a rock.
+Parallels for vm's, i.e. Win11x64 and Linux -its in a business enviroment windows domain/AD.
+Mostly run HP hardware in office with servers and stuff so beeing able use OpenCore to escape M$ is awsome and im a mac guy since wayback.
+Thinking about getting a Radeon WX4100 for some gpu performance, but we all know the gpu market a.t.m.
 
 Learn OpenCore, don't just copypasta EFI's, kexts, .plist files, pathces,
 when you find them on the wildweb. Open, read, put some brain's into it,
 learn something. You owe it to ALL creators, contributors before you.
 
-Fun and frustrating at times =)
+Both fun and frustrating at times, just like kids. =)
 
 **[Dont forget to unzip "unzip_me.zip" in EFI/OC/Resources]** or you wont have a nice gui at boot.
 
@@ -41,11 +43,10 @@ Fun and frustrating at times =)
 ## Bootloader
 - OpenCore 0.7.5
 
-## Awsome Apps
+## Awsome Apps i use in all my hacks.
 - Tiles
 - SensibleSideButtons
 - iStat Menus
-- Coin Tick
 - MonitorControl
 
 ## BIOS Settings
