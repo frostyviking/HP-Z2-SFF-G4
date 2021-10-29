@@ -23,12 +23,30 @@ Fun and frustrating at times =)
 - Sec LAN: Intel® I219-LM GbE (en0)
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0 (en1)
 - Audio: Conexant CX20632 5.1 HD Audio
+- Samsung PM871 Series 128GB SSD (macOS)
+- Samsung PM871a Series 256GB SSD (vm's + stuff)
+- Samsung PM981 NVMe PCIe M.2 512GB (win10x64)
+
+## Peripherals:
+- Dual HP EliteDisplay E272q
+- Logitech G305
+- HP Keyboard 320K
+- BT Speaker Sony SRS-XB30
+- Lenovo 500 Camera
+- Sennheiser USB Headset (voip)
 
 ## Current OS
 - macOS Monterey 12.0.1 (Build 21A559)
 
 ## Bootloader
 - OpenCore 0.7.5
+
+## Awsome Apps
+- Tiles
+- SensibleSideButtons
+- iStat Menus
+- Coin Tick
+- MonitorControl
 
 ## BIOS Settings
 - Advanced -> HP Sure Recover
