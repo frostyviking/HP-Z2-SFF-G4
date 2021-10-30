@@ -44,13 +44,13 @@ I wont bother doing a writeup for that here.
 - macOS Monterey 12.0.1 (Build 21A559)
 
 ## Bootloader
-- OpenCore 0.7.5
+- [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) 0.7.5
 
-## Awsome Apps i use in all my hacks.
-- Tiles
-- SensibleSideButtons
-- iStat Menus
-- MonitorControl
+## Awsome apps i use in all my hacks.
+- [Tiles](https://freemacsoft.net/tiles/)
+- [SensibleSideButtons](https://sensible-side-buttons.archagon.net)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 ## BIOS Settings
 - Advanced -> HP Sure Recover
