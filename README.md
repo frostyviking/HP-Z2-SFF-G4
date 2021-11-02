@@ -29,8 +29,7 @@ I wont bother doing a writeup for that here.
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0 (en1)
 - Audio: Conexant CX20632 5.1 HD Audio
 - Samsung PM871 Series 128GB SSD (macOS)
-- Samsung PM871a Series 256GB SSD (vm's + stuff)
-- Samsung PM981 NVMe PCIe M.2 512GB (win10x64)
+- Crucial MX500 1TB SSD (vm's + stuff)
 
 ## Peripherals:
 - Dual HP EliteDisplay E272q
